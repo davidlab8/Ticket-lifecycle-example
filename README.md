@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Creating Admin, Departments, Agents, and Users Ticket Lifecycle </h1>
+This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also the lifecycle of a ticket from intake to resolution
 
 
 <h2>Video Demonstration</h2>
@@ -20,12 +20,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Creating Admin, Departments, Agents, and Users. Discussing Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Post installation set-up configuring Roles(example) Supreme Admin having access to admin Osticket
+- Configuring Departments, Teams, Agents, Users (customers), SLA, and help topics 
+- Log-in Osticket as a User, create a ticket with a issue to be worked on 
+- Intake, Assignment and Communication, Working the Issue, Resolution.
 
 <h2>Lifecycle Stages</h2>
 
