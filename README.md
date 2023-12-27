@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Creating Admin, Departments, Agents, and Users Ticket Lifecycle </h1>
+<h1>osTicket - Creating Admin, Departments, Agents, Users, Discussing Ticket Lifecycle </h1>
 This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also the lifecycle of a ticket from intake to resolution
 
 
@@ -49,12 +49,15 @@ Help topics admin panel, manage, help topics.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating a ticket as a user log-in http://localhost/osTicket 
+Creating a ticket as a user log-in http://localhost/osTicket new ticket, help topic, describe issue, create ticket.
+(ticket that is created will appear in osticket admin panel and agent panel )
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log-in to Osticket Admin panel where ticket can be viewed, assigned, and resolved 
+Agents tab, ticket#, (admin ticket menu) priority (importance of the ticket), assign to (agent recieving ticket), 
+SLA (time period to contact user and resolve ticket), department (area agent assign to) once this information filled out the agent assign will recieve the ticket and work on it. Ticket thread agent can add info about progress of ticket once ticket is resolved agent will add information on post reply on how they resolved the ticket, click ticket resolved thus ending ticket cycle  
 </p>
 <br />
