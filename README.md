@@ -49,8 +49,7 @@ Help topics admin panel, manage, help topics.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating a ticket as a user log-in http://localhost/osTicket/ 
-<br />
+Creating a ticket as a user log-in http://localhost/osTicket/ [](http://localhost/osTicket/)<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
