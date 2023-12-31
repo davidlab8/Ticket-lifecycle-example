@@ -40,9 +40,10 @@ tabs check off all boxes to have full access)
 
 ![IMG_1060](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/974d93be-dd27-4646-8349-91ad2c5a6d37)
 
-  
-  
-  - Step 2. Configuring Agents, Teams, Roles, and Department have the same steps to create Admin Panel, Agents Tab 
+![IMG_1061](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/037d92f9-250b-462f-9a0e-888ab50249ae)
+
+    - Step 2. Configuring Agents, Teams, Roles, and Departments have the same steps to create:
+  - Admin Panel, Agents Tab (select) (Add new) fill out info to create. 
 
 <br />
 
