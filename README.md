@@ -49,19 +49,23 @@ tabs check off all boxes to have full access)
 <br />
 
 <h2>Lifecycle Stages</h2>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Step 3. Creating a ticket as a user log-in http://localhost/osTicket new ticket, help topic, describe issue, create ticket.
-(ticket that is created will appear in osticket admin panel and agent panel )
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Step 4. Log-in to Osticket Admin panel where ticket can be viewed, assigned, and resolved 
-Agents tab, ticket#, (admin ticket menu) priority (importance of the ticket), assign to (agent recieving ticket), 
-SLA (time period to contact user and resolve ticket), department (area agent assign to) once this information filled out the agent assign will recieve the ticket and work on it. Ticket thread agent can add info about progress of ticket once ticket is resolved agent will add information on post reply on how they resolved the ticket, click ticket resolved thus ending ticket cycle  
+![IMG_1062](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/6f96e25a-c27a-40ad-a4a7-340378637d85)
+
+
+- Step 3. Creating a ticket as a user log-in http://localhost/osTicket new ticket, Email, full name, Help Topic, Issue Summary, 
+describe in detail what issue is
+(ticket then is created will appear in osticket admin panel and agent panel )
+
+![IMG_1063](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/71054ff3-3626-46cc-9a77-8e0da7978997)
+
+![IMG_1064 2](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/4f3f1372-68b4-452e-aca7-ba0b4f97d920)
+
+![IMG_1065](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/852cdc54-8078-4ad3-a19d-d23dc62e5901)
+
+- Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
+  - Ticket # Menu, Status- (resolved or closed), Priority, Department (where ticket is gonna go), Assigned To (Agent), SLA (timeframe)
+  - Response column (select a response), description write a response, Ticket Status ( open, resolved, or close) the admin fills out the ticket assign it gives it a SLA depending on the importance of the ticket, the agent recieves the ticket begins to work, updates progress, by ticket thread where it can be seen once ticket is resolved it will be closed thus ending ticket lifecycle.
+ 
 </p>
 <br />
