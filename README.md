@@ -8,8 +8,7 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
+- ### [YouTube: OsTicket Features](https://www.youtube.com/watch?v=5Yxfe85KZGk&t=20s)
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
