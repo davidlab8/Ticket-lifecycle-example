@@ -35,16 +35,15 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
  ![IMG_1059](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/8e5f2dc7-6f40-43b9-a295-313e1f6f9f54)
    
-   - Step 1. Log-in Osticket as Admin, username password (Ostikcket menu) admin panel, agents, roles (create) Supreme Admin (permission 
+   - Step 1. Log-in Osticket as Admin, username password (Osticket menu) admin panel, agents, roles (create) Supreme Admin (permission 
 tabs check off all boxes to have full access)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  - Step 2. Configuring Departments admin panel, agents, department (create), Teams admin panel, agents, teams (create)
-Agents admin panel, agents, add-new Users agent panel, users, add-new SLA admin panel, manage, SLA
-Help topics admin panel, manage, help topics.
+![IMG_1060](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/974d93be-dd27-4646-8349-91ad2c5a6d37)
+
+  
+  
+  - Step 2. Configuring Agents, Teams, Roles, and Department have the same steps to create Admin Panel, Agents Tab 
+
 <br />
 
 <h2>Lifecycle Stages</h2>
