@@ -57,7 +57,7 @@ tabs check off all boxes to have full access)
 describe in detail what issue is
 (ticket then is created will appear in osticket admin panel and agent panel )
 
-![IMG_1063](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/71054ff3-3626-46cc-9a77-8e0da7978997)
+![IMG_1066](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/445a9eb0-53c2-4db1-ae79-bf9de84f70fe)
 
 ![IMG_1064 2](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/4f3f1372-68b4-452e-aca7-ba0b4f97d920)
 
@@ -65,7 +65,7 @@ describe in detail what issue is
 
 - Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
   - Ticket # Menu, Status- (resolved or closed), Priority, Department (where ticket is gonna go), Assigned To (Agent), SLA (timeframe)
-  - Response column (select a response), description write a response, Ticket Status ( open, resolved, or close) the admin fills out the ticket assign it gives it a SLA depending on the importance of the ticket, the agent recieves the ticket begins to work, updates progress, by ticket thread where it can be seen once ticket is resolved it will be closed thus ending ticket lifecycle.
+  - Response column (select a response), description write a response, Ticket Status ( open, resolved, or close) the admin fills out the ticket assign it gives it a SLA depending on the importance of the ticket, the agent recieves the ticket begins to work on it, updates progress, by (ticket thread) where it can be seen by everyone who has access if the agent needs assistance they can send message to user, admin or other agents once ticket is resolved it will be closed thus ending ticket lifecycle.
  
 </p>
 <br />
