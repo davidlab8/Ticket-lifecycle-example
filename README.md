@@ -51,7 +51,7 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
 - Step 3. Creating a ticket as a user log-in http://localhost/osTicket new ticket, Email, full name, Help Topic, Issue Summary, 
 describe in detail what issue is
-(ticket then is created will appear in osticket admin panel and agent panel )
+(ticket then is created will appear in osticket admin panel and agent panel)
 
 ![IMG_1066](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/445a9eb0-53c2-4db1-ae79-bf9de84f70fe)
 - Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
