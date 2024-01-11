@@ -29,21 +29,19 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 <h2>Admin panel installation set-up</h2>
 
 ![IMG_1057](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/7bbf6d8b-b429-4a2f-9d8b-740046e6faac)
-
+ - Step 1. Log-in Osticket as Admin Username password (Osticket menu) admin panel, agents, roles
+   
 ![IMG_1058](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/d9235f58-31a8-4832-ac23-ee280af5f8a0)
+ - Add new role (create) Supreme Admin
 
  ![IMG_1059](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/8e5f2dc7-6f40-43b9-a295-313e1f6f9f54)
-   
-   - Step 1. Log-in Osticket as Admin, username password (Osticket menu) admin panel, agents, roles (create) Supreme Admin (permission 
-tabs check off all boxes to have full access)
+ - Permission tabs check off all boxes add role to have full access
 
 ![IMG_1060](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/974d93be-dd27-4646-8349-91ad2c5a6d37)
+ - Step 2. Configuring Agents, Teams, Roles, and Departments have the same steps to create:
 
 ![IMG_1061](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/037d92f9-250b-462f-9a0e-888ab50249ae)
-
-   
-  - Step 2. Configuring Agents, Teams, Roles, and Departments have the same steps to create:
-  - Admin Panel, Agents Tab (select) (Add new) fill out info to create. 
+ - Admin Panel, Agents Tab (select) (Add new) fill out info to create. 
 
 <br />
 
@@ -51,20 +49,19 @@ tabs check off all boxes to have full access)
 
 ![IMG_1062](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/6f96e25a-c27a-40ad-a4a7-340378637d85)
 
-
 - Step 3. Creating a ticket as a user log-in http://localhost/osTicket new ticket, Email, full name, Help Topic, Issue Summary, 
 describe in detail what issue is
 (ticket then is created will appear in osticket admin panel and agent panel )
 
 ![IMG_1066](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/445a9eb0-53c2-4db1-ae79-bf9de84f70fe)
+- Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
 
 ![IMG_1064 2](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/4f3f1372-68b4-452e-aca7-ba0b4f97d920)
-
-![IMG_1065](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/852cdc54-8078-4ad3-a19d-d23dc62e5901)
-
-- Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
   - Ticket # Menu, Status- (resolved or closed), Priority, Department (where ticket is gonna go), Assigned To (Agent), SLA (timeframe)
-  - Response column (select a response), description write a response, Ticket Status ( open, resolved, or close) the admin fills out the ticket assign it gives it a SLA depending on the importance of the ticket, the agent recieves the ticket begins to work on it, updates progress, by (ticket thread) where it can be seen by everyone who has access if the agent needs assistance they can send message to user, admin or other agents once ticket is resolved it will be closed thus ending ticket lifecycle.
+ 
+![IMG_1065](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/852cdc54-8078-4ad3-a19d-d23dc62e5901)
+ - Response column (select a response), description write a response, Ticket Status ( open, resolved, or close) the admin fills out the ticket assign it gives it a SLA depending on the importance of the ticket, the agent recieves the ticket begins to work on it
+ - Updates progress, by (ticket thread) where it can be seen by everyone who has access if the agent needs assistance they can send message to user, admin or other agents once ticket is resolved it will be closed thus ending ticket lifecycle.
  
 </p>
 <br />
