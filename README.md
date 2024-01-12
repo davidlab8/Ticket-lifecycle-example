@@ -28,6 +28,8 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
 <h2>Admin panel installation set-up</h2>
 
+STEP 1.
+
 ![IMG_1057](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/7bbf6d8b-b429-4a2f-9d8b-740046e6faac)
  - Step 1. Log-in Osticket as Admin Username password (Osticket menu) admin panel, agents, roles
    
@@ -36,6 +38,8 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
  ![IMG_1059](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/8e5f2dc7-6f40-43b9-a295-313e1f6f9f54)
  - Permission tabs check off all boxes add role to have full access
+
+STEP 2.
 
 ![IMG_1060](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/974d93be-dd27-4646-8349-91ad2c5a6d37)
  - Step 2. Configuring Agents, Teams, Roles, and Departments have the same steps to create:
@@ -47,11 +51,15 @@ This tutorial outlines the creation of Admin Dep, Roles, Agents, and Users also 
 
 <h2>Lifecycle Stages</h2>
 
+STEP 3.
+
 ![IMG_1062](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/6f96e25a-c27a-40ad-a4a7-340378637d85)
 
 - Step 3. Creating a ticket as a user log-in http://localhost/osTicket new ticket, Email, full name, Help Topic, Issue Summary, 
 describe in detail what issue is
 (ticket then is created will appear in osticket admin panel and agent panel)
+
+STEP 4.
 
 ![IMG_1066](https://github.com/davidlab8/Ticket-lifecycle-example/assets/154483052/445a9eb0-53c2-4db1-ae79-bf9de84f70fe)
 - Step 4. Log-in to Osticket Agent panel where ticket can be viewed, assigned, and resolved 
